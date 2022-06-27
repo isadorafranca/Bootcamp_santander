@@ -1,4 +1,4 @@
-# Introdução ao Git
+# Introdução ao Git 🖥️
 
 ## GUI X GLI
 
