@@ -132,7 +132,7 @@ E dentro do **header** do article vamos fazer a mesma coisa, mas agora depois do
 
 Os últimos elementos que veremos neste módulo são os relacionados a listas: 
 
-> <code>< ul>, < ol> e < li> <code>
+<code>< ul>, < ol> e < li></code>
 
 Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou, como será no nosso caso, uma lista com contatos.
 
@@ -147,7 +147,7 @@ E o elemento **li** é um item dentro de uma dessas listas. Um < li> pode conter
 Adicionaremos uma lista de contatos ao rodapé da nossa página, e para isso usaremos também o elemento  _a_  que vimos anteriormente.
 
 Crie um elemento ul e dentro dele adicione um <li> com um elemento a, no atributo href adicione o  _link_  de alguma rede social que você mantenha e, no conteúdo da âncora coloque o nome dessa rede.
-> # CSS 3
+# CSS 3
 
 ## Definição e seletores
 
